@@ -1,0 +1,56 @@
+{
+  "name": "Lil' Potates #81",
+  "symbol": "LPOT",
+  "description": "Lil' Potates are a collection of 10,000 randomly generated potato NFTs on the Ethereum Solana.",
+  "seller_fee_basis_points": 1000,
+  "image": "81.png",
+  "external_url": "https://www.youtube.com/c/hashlipsnft",
+  "edition": 81,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Neutral_Spots"
+    },
+    {
+      "trait_type": "skins",
+      "value": "Jeans"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "Kawaii"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Shouting"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "TShirt_Purple_Deco"
+    },
+    {
+      "trait_type": "eye_wear",
+      "value": "Sunglasses_Orange"
+    },
+    {
+      "trait_type": "head_wear",
+      "value": "Afro"
+    },
+    {
+      "trait_type": "accessories",
+      "value": "Head_Phones"
+    },
+    {
+      "trait_type": "items",
+      "value": "Foot_Ball"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "81.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
